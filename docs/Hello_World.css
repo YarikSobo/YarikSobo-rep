@@ -1,5 +1,5 @@
 body{
-    background-image: url("images/Battle_of_trafalgar.jpg");
+    background-image: url("images/Battle_of_Trafalgar.jpg");
 }
 p{
     color: #FF33F0;
@@ -9,7 +9,7 @@ p{
     color: red;
 }
 p.noun{
-    color:white;
+    color:red;
 }
 img {
   border: 5px solid #ddd;
