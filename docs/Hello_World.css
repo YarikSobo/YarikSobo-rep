@@ -4,6 +4,12 @@ body{
 p{
     color: #FF33F0;
 }
+h1{
+    color: white;
+}
+h2{
+    color: brown;
+}
 .noun{
     font-weight: 900;
     color: red;
