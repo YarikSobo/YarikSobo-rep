@@ -18,7 +18,20 @@ p.noun{
     color:red;
 }
 img {
-  border: 5px solid #ddd;
-  border-radius: 4px;
+  border: 0px solid #ddd;
+  border-radius: 0px;
   padding: 5px;
   width: 110px;
+}
+.destroyer{
+    color:aqua
+}
+.cruiser{
+    color:aqua
+}
+
+.battleship{
+    color:aqua
+}
+.frigate{
+    color:aqua
