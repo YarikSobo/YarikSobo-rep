@@ -2,13 +2,17 @@ body{
     background-image: url("images/Battle_of_Trafalgar.jpg");
 }
 p{
-    color: #FF33F0;
+    color: white;
+    background-color:#77C9FF
 }
 h1{
-    color: white;
+    color: #87d6eb;
 }
 h2{
     color: brown;
+}
+h3{
+    color:aqua
 }
 .noun{
     font-weight: 900;
@@ -23,6 +27,9 @@ img {
   padding: 5px;
   width: 110px;
 }
+table, th, td {
+  border: 1px solid;
+}
 .destroyer{
     color:aqua
 }
@@ -35,3 +42,29 @@ img {
 }
 .frigate{
     color:aqua
+}
+nav 
+{
+background-color: #87d6eb;
+text-align: center; 
+width: 100%; 
+}       
+    
+nav div 
+{
+padding: 14px 20px; 
+display: inline-block; 
+}      
+      
+nav a 
+{
+font-size: 23px;
+text-decoration: none; 
+color: black; 
+}
+        
+nav div:hover 
+{
+background-color: #555; 
+color: white; 
+}
