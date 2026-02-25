@@ -39,6 +39,14 @@ height: 220px;
 padding: 10px;
 border: 5px solid blue;
 }
+div.Imperator{
+position: relative;
+left: 200px;
+width: 270px;
+height: 220px;
+padding: 10px;
+border: 5px solid blue;
+}
 nav 
 {
 background-color: #87d6eb;
