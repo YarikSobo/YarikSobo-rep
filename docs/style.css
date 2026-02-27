@@ -4,7 +4,8 @@ body{
 p{
     margin:100px;
     color: white;
-    background-color:#77C9FF
+    background-color:#77C9FF;
+    font-family:helvetica
 }
 h1{
     color: #87d6eb;
@@ -14,6 +15,12 @@ h2{
 }
 h3{
     color:aqua
+}
+span.header{
+    background-color:yellow;
+    color: black;
+    font-size:large;
+    font-family:sans-serif;
 }
 .noun{
     font-weight: 900;
@@ -30,10 +37,11 @@ img {
 }
 table, th, td {
   border: 1px solid;
+  border-color:yellow
 }
 div.Victory{
 position: relative;
-left: 200px;
+left: 600px;
 width: 270px;
 height: 220px;
 padding: 10px;
@@ -41,11 +49,19 @@ border: 5px solid blue;
 }
 div.Imperator{
 position: relative;
-left: 200px;
+left: 600px;
 width: 270px;
 height: 220px;
 padding: 10px;
 border: 5px solid blue;
+}
+div.LOGH{
+position: relative;
+left: 600px;
+width: 270px;
+height: 220px;
+padding: 10px;
+border: 5px solid yellow;   
 }
 nav 
 {
